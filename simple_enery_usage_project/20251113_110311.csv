@@ -1,0 +1,38 @@
+source,COUNT(*)
+Agricultural Energy Use,1.0
+Agriculture,4.0
+Agriculture Soils,1.0
+Air,1.0
+Aluminium Non-Ferrous Metals,2.0
+Cement,1.0
+Chemicals,3.0
+Coal Mining,2.0
+Commercial Buildings,1.0
+Deforestation,1.0
+Electricity and heat,13.0
+"Electricity,heat",1.0
+Energy,5.0
+Food and Tobacco,1.0
+Fugitive Emissions,2.0
+Harvest / Management,1.0
+Industrial Processes,4.0
+Industry,8.0
+Iron and Steel,1.0
+Land Use Change,2.0
+Landfills,1.0
+Livestock and Manure,2.0
+Machinery,1.0
+Oil and Gas Processing,2.0
+Other Agriculture,2.0
+Other Fuel Combustion,4.0
+Other Industry,2.0
+Pulp - Paper and Printing,1.0
+Rail - Ship and Other Transport,1.0
+Residential Buildings,1.0
+Rice Cultivation,1.0
+Road,1.0
+T and D Losses,1.0
+Transportation,3.0
+Unallocated Fuel Combustion,3.0
+Waste,2.0
+Waste water - Other Waste,2.0
